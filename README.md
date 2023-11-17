@@ -77,3 +77,12 @@ Update the CSS so that the tags _always fit on 1 line_. If there is too much tex
 ![The lizard example, but with an ellipsis at the right edge, in the second label](./docs/tag-clamped.png)
 
 **This is a challenging exercise.** You'll need to tweak some of the existing CSS (Hint: Flexbox might not be the right layout mode for this)
+
+## Note to self:
+
+Things I gained practise with or learnt:
+
+- self-hosting Google Font's optimised versions of fonts
+- using the `<picture>` element to help provide multiple sources for an image, where the image selected is dependent on the user's display/device
+- thinking about what kind of alternative text I'd want for an image that I couldn't see
+- developing a mental model for solving a challenging exercise. Alternatively, could say that I learned a trick for handling text overflow on a single line containing multiple things...
